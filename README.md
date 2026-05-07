@@ -1,4 +1,4 @@
-##The dashboard includes analysis of:
+The dashboard includes analysis of:
 
 - Inspector visits and working time patterns
 
